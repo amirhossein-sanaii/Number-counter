@@ -1,0 +1,13 @@
+.counter{
+    background-color: aliceblue;
+    padding: 20px;
+    margin: auto;
+    margin-bottom: 10px;
+}
+
+.btn{
+    padding: 10px;
+    border-radius: 5px;
+    border: none gray 1px;
+    margin: 10px;
+}
